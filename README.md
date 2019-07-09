@@ -7,6 +7,15 @@ Ten opis jest też testem zrozumienia zasad jezyka MarkDown do tworzenia plików
 Prosta strona testowa, z polem do wprowadzania tekstu oraz 2 buttony (Load / Save)
 Formularz ma być odporny na odświeżenie strony - czyli trzeba załadować dane do aplikacji 
 
-[WTF] (https://kursy.devstyle.pl/frontend/tydzien-viii/lekcja-8-10-prace-domowe-tydzien-viii/)
+---
 
-![Image] (https://mrpopat.in/admin/upload/wallpaper/2013032113638505501781965387.jpg)
+[WTF](https://kursy.devstyle.pl/frontend/tydzien-viii/lekcja-8-10-prace-domowe-tydzien-viii/)
+
+![Nice!](https://i.pinimg.com/originals/91/e5/3a/91e53abeaac9ffafd79e8555c7bf7cd4.jpg)
+
+---
+
+```
+Nie, to zdjecie powyżej to nie jest edytor to jest edytorka jak widac z duzym doswiadczeniem :)
+
+```
